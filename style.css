@@ -1,0 +1,39 @@
+* {
+  font-family: 'Roboto', sans-serif;
+  background-color: #ffffff;
+  box-sizing: border-box;
+}
+
+.image-yoga {
+  display: block;
+  margin: 142px 51.95px 104px 51px;
+}
+
+.image-doots {
+  display: block;
+  margin: 0 175px 81px 175px;
+}
+
+p {
+  display: block;
+  margin: 0 44px 40px 43px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+
+  color: #000000;
+}
+
+button {
+  display: block;
+  margin: 0 78px 0 112px;
+  padding: 14px 48px 14px 49px;
+  background: #323232;
+  border-radius: 10px;
+  box-shadow: -4px 4px 18px rgba(0, 0, 0, 0.09);
+  color: #ffffff;
+  font-size: 15px;
+  line-height: 18px;
+}
